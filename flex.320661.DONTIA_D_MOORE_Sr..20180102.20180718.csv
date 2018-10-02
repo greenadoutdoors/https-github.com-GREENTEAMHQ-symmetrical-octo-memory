@@ -1,0 +1,7 @@
+BOF|U2519271|DONTIA D MOORE Sr.|1|20180102|20180718|20180719;191850|100|100
+BOA|U2519271
+BOS|CONF|Trade Confirms
+HEADER|CONF|TraderID|AllocatedTo|IsAPIOrder|OrderType|Tax|Code|SettleDate|TradeDate|Exchange|Buy/Sell|Quantity|Price|Amount|Proceeds|Commission|BrokerExecutionCommission|BrokerClearingCommission|ThirdPartyExecutionCommission|ThirdPartyClearingCommission|ThirdPartyRegulatoryCommission|OtherCommission|CommissionCurrency|ClientAccountID|Model|CurrencyPrimary|AssetClass|Symbol|AccountAlias|Description|Conid|SecurityID|SecurityIDType|CUSIP|ISIN|ListingExchange|UnderlyingConid|UnderlyingSymbol|UnderlyingSecurityID|UnderlyingListingExchange|Issuer|Multiplier|Strike|Expiry|Put/Call|PrincipalAdjustFactor|TransactionType|TradeID|OrderID|ExecID|BrokerageOrderID|OrderReference|VolatilityOrderLink|ClearingFirmID|OrigTradePrice|OrigTradeDate|OrigTradeID|OrderTime|Date/Time|ReportDate|LevelOfDetail
+EOS|CONF|0|0
+EOA|U2519271
+EOF
